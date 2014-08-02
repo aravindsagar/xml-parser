@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<roottag>
+	<tag1 attr1="v1" ="v2">
+		&entity1;&entity2;
+	</tag1>
+	<tag2>
+		<tag3>
+			data in between the tags
+		</tag3>
+	</tag>
+</roottag>
